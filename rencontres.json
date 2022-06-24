@@ -1,0 +1,4820 @@
+{
+    "journees": [
+        {
+            "num": 1,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "I R B E A - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "à programmer",
+                    "Horaire": "",
+                    "Lieu": "EL-MOKRANI -Ben Aknoun",
+                    "Observation": "",
+                    "buts": [],
+                    "score": ":"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "J S D - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "à programmer",
+                    "Horaire": "",
+                    "Lieu": "",
+                    "Observation": "",
+                    "buts": [],
+                    "score": ":"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "J S B A B - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 03 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "SAHRAOUI Ahmed",
+                            "minute": "84"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "N R Z - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "ven 03 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "KHIDER Abderraouf",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "O M S E - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 04 déc",
+                    "Horaire": "10:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "12"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "3"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed (P)",
+                            "minute": "33"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef",
+                            "minute": "41"
+                        }
+                    ],
+                    "score": "0 : 4"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "E S O F - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "sam 04 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "GHEZALI Amer",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "76"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "R C H - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 04 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "28"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "MOKRANI Mehdi",
+                            "minute": "53"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "3 : 0"
+                }
+            ]
+        },
+        {
+            "num": 2,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O D M - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "ven 10 déc",
+                    "Horaire": "10:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BOUROUBI Abdelkader",
+                            "minute": "70"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "24"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "C R O F - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "ven 10 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BERRACHED Mohamed Lamine (P)",
+                            "minute": "43"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "LAHDJEL Youcef",
+                            "minute": "63"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOUSLAMA Mohamed",
+                            "minute": "55"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "N R Bri - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "sam 11 déc",
+                    "Horaire": "12:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SAYAH Mohamed Chafik",
+                            "minute": "59"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "F C B - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 11 déc",
+                    "Horaire": "12:00",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "MILI Anis",
+                            "minute": "23"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "NEDJADI Merzoug",
+                            "minute": "73"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAIB Ahmed",
+                            "minute": "11"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "I R B E A - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 11 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "24"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "43"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali",
+                            "minute": "32"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "SAHRAOUI Ahmed",
+                            "minute": "5"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "F C E B - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 11 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "FERTAS Mohamed Oudai",
+                            "minute": "36"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BOUDERBALA Abdelaziz (P)",
+                            "minute": "51"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "E S F C - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "sam 11 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "HAMOUCHI Mohamed Lamine",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "6"
+                        }
+                    ],
+                    "score": "1 : 1"
+                }
+            ]
+        },
+        {
+            "num": 3,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "J S B A B - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "ven 17 déc",
+                    "Horaire": "10:00",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "MOKDADI Mounir",
+                            "minute": "67"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BELLAL Samir",
+                            "minute": "33"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "R C H - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "ven 17 déc",
+                    "Horaire": "10:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "GHERBI Ramzi",
+                            "minute": "30"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SAYAH Mohamed Chafik",
+                            "minute": "86"
+                        }
+                    ],
+                    "score": "0 : 2"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "J S D - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "ven 17 déc",
+                    "Horaire": "10:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUKHEDDOUNI Nacer Eddine",
+                            "minute": "70"
+                        }
+                    ],
+                    "score": "0 : 1"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "C R B D - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "ven 17 déc",
+                    "Horaire": "10:00",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "E S O F - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 17 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "GHEZALI Amer",
+                            "minute": "46"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "ADILA Abdelkader",
+                            "minute": "62"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "FELLAH Ibrahim",
+                            "minute": "89"
+                        }
+                    ],
+                    "score": "3 : 0"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "N R Z - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 17 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "LABIOD Oussama (CSC)",
+                            "minute": "63"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "O M S E - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "ven 17 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOUABIBSA Seif Eddine (P)",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "MEGNOUCHE Mahmoud",
+                            "minute": "45"
+                        }
+                    ],
+                    "score": "1 : 1"
+                }
+            ]
+        },
+        {
+            "num": 4,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "I R B E A - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "mar 21 déc",
+                    "Horaire": "12:00",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "IKHLEF Fares Mourad",
+                            "minute": "82"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAHAR BELLAR Moussa",
+                            "minute": "37"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAIB Ahmed",
+                            "minute": "88"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAIB Ahmed",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "1 : 3"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "O D M - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "mar 21 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "HAMI Walid",
+                            "minute": "81"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "LAHDJEL Youcef",
+                            "minute": "32"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "TAYANE Souhaib Sif Ellah",
+                            "minute": "41"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BERRACHED Mohamed Lamine",
+                            "minute": "8"
+                        }
+                    ],
+                    "score": "1 : 3"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "J S B A B - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "mar 21 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "GOUSMI Hichem",
+                            "minute": "41"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "LAFANE Abdelkader Amine",
+                            "minute": "73"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "F C E B - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "mar 21 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "OUGENOUN Islam",
+                            "minute": "2"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "HADID Youcef",
+                            "minute": "23"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ZAIDI Mohamed Islam",
+                            "minute": "45"
+                        }
+                    ],
+                    "score": "3 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "F C B - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "mar 21 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "LADDI Kheireddine",
+                            "minute": "19"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUTOUILI Mohamed Amine",
+                            "minute": "42"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUDJEDOU Imad Eddine",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim (P)",
+                            "minute": "36"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "80"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "87"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "GHERZI Abderraouf (CSC)",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "4 : 3"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "N R Bri - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "mar 21 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SAYAH Mohamed Chafik",
+                            "minute": "88"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOUSLAMA Mohamed",
+                            "minute": "73"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "E S F C - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "mar 21 déc",
+                    "Horaire": "14:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "HAMEL Ahmed Eloualid (P)",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef (P)",
+                            "minute": "55"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HAMMADI Abdelhak",
+                            "minute": "75"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FISSAH Fayçal",
+                            "minute": "88"
+                        }
+                    ],
+                    "score": "1 : 4"
+                }
+            ]
+        },
+        {
+            "num": 5,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "J S D - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "sam 25 déc",
+                    "Horaire": "10:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "HAOUTAT Mehdi (P)",
+                            "minute": "82"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "HAOUTAT Mehdi",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "0 : 2"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "R C H - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 25 déc",
+                    "Horaire": "12:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim (P)",
+                            "minute": "64"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "AIT KHEDDACHE Mohamed Oussama",
+                            "minute": "12"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "LAFIFI Merouane",
+                            "minute": "79"
+                        }
+                    ],
+                    "score": "1 : 2"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "C R O F - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "sam 25 déc",
+                    "Horaire": "12:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "DJEMIL Bilal (CSC)",
+                            "minute": "55"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "DJEMIL Bilal",
+                            "minute": "85"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "E S O F - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 25 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "N R Z - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "sam 25 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "RAMI Saad (P)",
+                            "minute": "82"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "14"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "LALOUI Ahmed",
+                            "minute": "28"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "4"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "CHOUARHI Samy",
+                            "minute": "75"
+                        }
+                    ],
+                    "score": "1 : 4"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "O M S E - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 25 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane",
+                            "minute": "64"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUTOUILI Mohamed Amine",
+                            "minute": "50"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "LABIOD Oussama (P)",
+                            "minute": "76"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "LADDI Kheireddine",
+                            "minute": "83"
+                        }
+                    ],
+                    "score": "1 : 3"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "C R B D - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "sam 25 déc",
+                    "Horaire": "14:30",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "1"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "15"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "18"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "50"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "12"
+                        }
+                    ],
+                    "score": "5 : 1"
+                }
+            ]
+        },
+        {
+            "num": 6,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O D M - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "ven 07 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "TALAMALI Mohamed Oussama",
+                            "minute": "18"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "N R Bri - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "ven 07 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELFODIL Arezki",
+                            "minute": "14"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "DERRADJI Zakaria",
+                            "minute": "66"
+                        }
+                    ],
+                    "score": "0 : 2"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "J S B A B - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "ven 07 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "AROUS Djillali",
+                            "minute": "32"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali",
+                            "minute": "40"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAISSAOUI Mounir",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAGHROUCHE Seifeddine",
+                            "minute": "7"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "J S D - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 08 janv",
+                    "Horaire": "12:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BELGUEZZANE Walid",
+                            "minute": "59"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "MOULAY Walid Ouissem",
+                            "minute": "82"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "SEGAI Med Amine",
+                            "minute": "55"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "F C B - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 08 janv",
+                    "Horaire": "12:00",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUTOUILI Mohamed Amine",
+                            "minute": "12"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "I R B E A - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "sam 08 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "42"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "OUAREM Nadjem Eddine",
+                            "minute": "58"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "69"
+                        }
+                    ],
+                    "score": "3 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "F C E B - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "sam 08 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELOUFI Mohamed Reda",
+                            "minute": "33"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "LAFIFI Merouane",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "2"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "60"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BEKHEIRA Mohamed",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 3"
+                }
+            ]
+        },
+        {
+            "num": 7,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "E S O F - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "mer 12 janv",
+                    "Horaire": "12:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "TALAMALI Mohamed Oussama",
+                            "minute": "67"
+                        }
+                    ],
+                    "score": "0 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "C R B D - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "mer 12 janv",
+                    "Horaire": "12:30",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef",
+                            "minute": "73"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "N R Z - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "mer 12 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAGHROUCHE Seifeddine (P)",
+                            "minute": "58"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "SAIDI Kamel",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "R C H - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "mer 12 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUSSADIA Younes",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "LAFANE Abdelkader Amine",
+                            "minute": "43"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "BOUZIDI Mohamed Amine",
+                            "minute": "55"
+                        }
+                    ],
+                    "score": "1 : 2"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "O M S E - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "mer 12 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BEKHEIRA Mohamed",
+                            "minute": "6"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "53"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "C R O F - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "mer 12 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel",
+                            "minute": "85"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUDJEDOU Imad Eddine",
+                            "minute": "17"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "E S F C - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "mer 12 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "HAMEL Ahmed Eloualid",
+                            "minute": "50"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "MESSAOUDI Fouzi",
+                            "minute": "55"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "GHERBI Ramzi (P)",
+                            "minute": "31"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "81"
+                        }
+                    ],
+                    "score": "2 : 2"
+                }
+            ]
+        },
+        {
+            "num": 8,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O D M - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "sam 15 janv",
+                    "Horaire": "11:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "HAOUTAT Mehdi (P)",
+                            "minute": "69"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "F C E B - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 15 janv",
+                    "Horaire": "12:00",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ZAIDI Mohamed Islam",
+                            "minute": "32"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELAKHDAR Abdellah",
+                            "minute": "66"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "J S D - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "sam 15 janv",
+                    "Horaire": "12:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BOUDERBALA Abdelaziz",
+                            "minute": "62"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "SAIDI Kamel",
+                            "minute": "78"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "F C B - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "sam 15 janv",
+                    "Horaire": "13:30",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "E S O F - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "sam 15 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "MOKADDEM Billel",
+                            "minute": "48"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "SEGAI Med Amine",
+                            "minute": "59"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "FELLAH Ibrahim",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "CHERIET Mounib Djazil",
+                            "minute": "28"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAISSAOUI Mounir",
+                            "minute": "28"
+                        }
+                    ],
+                    "score": "3 : 2"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "J S B A B - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "sam 15 janv",
+                    "Horaire": "14:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali",
+                            "minute": "48"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "GOUSMI Hichem",
+                            "minute": "77"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "SMAILI Abdellah (CSC)",
+                            "minute": "27"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane (P)",
+                            "minute": "74"
+                        }
+                    ],
+                    "score": "3 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "I R B E A - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 15 janv",
+                    "Horaire": "15:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "GOURAIA Walid (CSC)",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "56"
+                        }
+                    ],
+                    "score": "1 : 1"
+                }
+            ]
+        },
+        {
+            "num": 9,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "N R Z - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "ven 21 janv",
+                    "Horaire": "15:00",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "DRAOUZIA Abdelkader",
+                            "minute": "47"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "DRAOUZIA Abdelkader",
+                            "minute": "55"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "C R O F - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "ven 21 janv",
+                    "Horaire": "15:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "LALOUI Ahmed",
+                            "minute": "20"
+                        }
+                    ],
+                    "score": "0 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "C R B D - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 22 janv",
+                    "Horaire": "11:00",
+                    "Lieu": "DOUERA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef (P)",
+                            "minute": "52"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef (P)",
+                            "minute": "70"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "KALOUN Abdelatif (P)",
+                            "minute": "79"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "BOUZIDI Mohamed Amine",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "N R Bri - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 22 janv",
+                    "Horaire": "15:00",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SAYAH Mohamed Chafik",
+                            "minute": "80"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "MILI Anis",
+                            "minute": "39"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "NEDJADI Merzoug",
+                            "minute": "60"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "KHATAB Abdelkacem Ayoub",
+                            "minute": "72"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUDJEDOU Imad Eddine",
+                            "minute": "84"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "ALLALI Abderraouf",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "1 : 5"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "E S F C - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 22 janv",
+                    "Horaire": "15:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "AISSAOUI Mahrez",
+                            "minute": "66"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "KHELIFA MAHDJOUBI Khaled",
+                            "minute": "83"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "OUGENOUN Islam",
+                            "minute": "11"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "OULD MOHAMED Abdelaziz",
+                            "minute": "21"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELOUFI Mohamed Reda",
+                            "minute": "69"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "O M S E - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 22 janv",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "19"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "6"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BOUDERBALA Abdelaziz",
+                            "minute": "40"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "R C H - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 22 janv",
+                    "Horaire": "15:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "KINNOU Adem",
+                            "minute": "14"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "GHERZI Abderraouf",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "FELLAH Ibrahim",
+                            "minute": "5"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "HADJRI Chahine",
+                            "minute": "72"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "ADILA Abdelkader",
+                            "minute": "80"
+                        }
+                    ],
+                    "score": "2 : 3"
+                }
+            ]
+        },
+        {
+            "num": 10,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "I R B E A - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "ven 04 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "25"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "IKHLEF Fares Mourad",
+                            "minute": "60"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "75"
+                        }
+                    ],
+                    "score": "3 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "J S B A B - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "ven 04 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "SEBTI Amine (CSC)",
+                            "minute": "1"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "GOUSMI Hichem",
+                            "minute": "80"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "N R Z - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "ven 04 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAISSAOUI Mounir",
+                            "minute": "44"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "26"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "MEGNOUCHE Fateh",
+                            "minute": "86"
+                        }
+                    ],
+                    "score": "1 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "J S D - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 05 févr",
+                    "Horaire": "14:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "16"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "28"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "67"
+                        }
+                    ],
+                    "score": "0 : 3"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "O D M - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 05 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "HAOUTAT Mehdi",
+                            "minute": "44"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "CHIKHI Youcef Islam",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "MILI Anis",
+                            "minute": "50"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "MILI Anis",
+                            "minute": "55"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "E S O F - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "sam 05 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAIB Ahmed",
+                            "minute": "40"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "ADILA Abdelkader",
+                            "minute": "8"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "86"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "F C E B - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "sam 05 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ZAIDI Mohamed Islam",
+                            "minute": "33"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "80"
+                        }
+                    ],
+                    "score": "1 : 1"
+                }
+            ]
+        },
+        {
+            "num": 11,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "F C B - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 11 févr",
+                    "Horaire": "10:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELOUFI Mohamed Reda",
+                            "minute": "41"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "OUGENOUN Islam",
+                            "minute": "55"
+                        }
+                    ],
+                    "score": "0 : 2"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "C R B D - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "ven 11 févr",
+                    "Horaire": "14:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "SENANI Riadh",
+                            "minute": "35"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef (P)",
+                            "minute": "44"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAHAR BELLAR Moussa (P)",
+                            "minute": "50"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "R C H - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "ven 11 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "GHERZI Abderraouf",
+                            "minute": "18"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "DJENDEL Mohamed Reda",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BOUZENOUNE Adlane",
+                            "minute": "10"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BOUROUBI Abdelkader",
+                            "minute": "75"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BELLAL Samir",
+                            "minute": "83"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "O M S E - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "ven 11 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "C R O F - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "ven 11 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELFODIL Arezki",
+                            "minute": "1"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELFODIL Arezki",
+                            "minute": "80"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "REZKA Mohammed Roudyn",
+                            "minute": "18"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "DEBBAH Abdelkadir",
+                            "minute": "77"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "N R Bri - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "sam 12 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "87"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "LALOUI Ahmed",
+                            "minute": "69"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "SIOUANE Khaled",
+                            "minute": "75"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "ZELFA Chakib Rabah",
+                            "minute": "77"
+                        }
+                    ],
+                    "score": "1 : 3"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "E S F C - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "mer 02 mars",
+                    "Horaire": "15:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SOUISSI Oussama",
+                            "minute": "26"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "BOUZIDI Mohamed Amine (P)",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "AROUS Djillali",
+                            "minute": "85"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "AROUS Djillali",
+                            "minute": "89"
+                        }
+                    ],
+                    "score": "1 : 3"
+                }
+            ]
+        },
+        {
+            "num": 12,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "I R B E A - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim (P)",
+                            "minute": "43"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "SIOUANE Khaled",
+                            "minute": "76"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "E S O F - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "DERRADJI Zakaria",
+                            "minute": "78"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BERRACHED Mohamed Lamine",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "0 : 2"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "N R Z - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAISSAOUI Mounir",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef (P)",
+                            "minute": "76"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "83"
+                        }
+                    ],
+                    "score": "1 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "R C H - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "sam 19 févr",
+                    "Horaire": "13:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "KERAZ Salah Eddne",
+                            "minute": "24"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim (P)",
+                            "minute": "27"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "KACHOU Mohamed",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane (P)",
+                            "minute": "41"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "3 : 2"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "O D M - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 19 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "CHACHOUA Mohamed Hichem",
+                            "minute": "80"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "J S D - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "sam 19 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S D",
+                            "joueur": "SAGHID Hakim",
+                            "minute": "3"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "SAGHID Hakim",
+                            "minute": "61"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "J S B A B - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "sam 19 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "BOUZIDI Mohamed Amine (P)",
+                            "minute": "10"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "GHERBI Ramzi",
+                            "minute": "7"
+                        }
+                    ],
+                    "score": "1 : 1"
+                }
+            ]
+        },
+        {
+            "num": 13,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "E S F C - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "ven 25 févr",
+                    "Horaire": "15:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SALAOUI Sif Eddine",
+                            "minute": "16"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SALAOUI Sif Eddine",
+                            "minute": "31"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "F C E B - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "ven 25 févr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELOUFI Mohamed Reda (P)",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "BEZZA Yazid",
+                            "minute": "61"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "LALOUI Ahmed",
+                            "minute": "24"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "35"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "75"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "C R O F - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "ven 25 févr",
+                    "Horaire": "15:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "LAHDJEL Youcef",
+                            "minute": "2"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "FERHAT Mohammed",
+                            "minute": "84"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "C R B D - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "ven 25 févr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "CHABOUNI Samir",
+                            "minute": "1"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "1"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "15"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "BIR Sofiane",
+                            "minute": "75"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "4 : 1"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "O M S E - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "sam 26 févr",
+                    "Horaire": "13:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "YAHIA Nabil",
+                            "minute": "23"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BOUKHEMKHEM Lokmane",
+                            "minute": "33"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BOUROUBI Abdelkader (P)",
+                            "minute": "76"
+                        }
+                    ],
+                    "score": "0 : 3"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "F C B - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 26 févr",
+                    "Horaire": "14:30",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUTOUILI Mohamed Amine",
+                            "minute": "3"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "KHATAB Abdelkacem Ayoub",
+                            "minute": "50"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "SAHRAOUI Ahmed",
+                            "minute": "51"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "N R Bri - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 26 févr",
+                    "Horaire": "15:30",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S D",
+                            "joueur": "DEBBAH Abdelkadir",
+                            "minute": "45"
+                        }
+                    ],
+                    "score": "0 : 1"
+                }
+            ]
+        },
+        {
+            "num": 14,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O D M - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "31"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "82"
+                        }
+                    ],
+                    "score": "0 : 2"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "C R B D - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "58"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "CHABOUNI Samir",
+                            "minute": "87"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "C R O F - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "DJEMIL Bilal",
+                            "minute": "15"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BOUCHAKOUR Rabah Kheir_Eddine",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "LAHDJEL Youcef",
+                            "minute": "68"
+                        }
+                    ],
+                    "score": "3 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "E S F C - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "MESSAOUDI Fouzi",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "HAMEL Ahmed Eloualid (P)",
+                            "minute": "58"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "GHARBI Sabri",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAGHROUCHE Seifeddine (P)",
+                            "minute": "73"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAISSAOUI Mounir",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "F C E B - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 18 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELIFA Rabia Chaouki",
+                            "minute": "47"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELOUFI Mohamed Reda",
+                            "minute": "58"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "F C B - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 19 mars",
+                    "Horaire": "12:00",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "CHAREF KHODJA Amine (P)",
+                            "minute": "13"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "N R Bri - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 19 mars",
+                    "Horaire": "16:00",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SAHRAOUI Abdellah",
+                            "minute": "88"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "FELLAH Ibrahim",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "1 : 1"
+                }
+            ]
+        },
+        {
+            "num": 15,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "C R B D - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 24 mars",
+                    "Horaire": "12:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FEGAS Akram",
+                            "minute": "10"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "17"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "35"
+                        }
+                    ],
+                    "score": "3 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "O M S E - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 24 mars",
+                    "Horaire": "12:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BERRACHED Mohamed Lamine",
+                            "minute": "67"
+                        }
+                    ],
+                    "score": "0 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "R C H - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 24 mars",
+                    "Horaire": "12:30",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "KINNOU Adem",
+                            "minute": "70"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "RABIA Riad",
+                            "minute": "88"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "AMEZIANE Yanis",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SAIDANI Abdel Hadi (P)",
+                            "minute": "24"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "KOURTA Rabah Rami",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "3 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "J S B A B - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 24 mars",
+                    "Horaire": "12:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "E S O F - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 24 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "J S D - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 24 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BEDRI Haytem",
+                            "minute": "10"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BAKIR Bilell",
+                            "minute": "21"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "DEBBAH Abdelkadir (CSC)",
+                            "minute": "88"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "N R Z - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 24 mars",
+                    "Horaire": "15:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "OUERDENE Mohamed Baderddine",
+                            "minute": "50"
+                        }
+                    ],
+                    "score": "1 : 0"
+                }
+            ]
+        },
+        {
+            "num": 16,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "F C B - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "mar 29 mars",
+                    "Horaire": "12:30",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": ""
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "O D M - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "mar 29 mars",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": ""
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "F C E B - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "mar 29 mars",
+                    "Horaire": "15:00",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": ""
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "E S F C - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "mar 29 mars",
+                    "Horaire": "15:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": ""
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "N R Bri - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "mar 29 mars",
+                    "Horaire": "15:00",
+                    "Lieu": "STAOUELI",
+                    "Observation": ""
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "I R B E A - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "mar 29 mars",
+                    "Horaire": "16:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": ""
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "C R O F - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "mar 29 mars",
+                    "Horaire": "16:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": ""
+                },
+                {
+                    "N°": "8",
+                    "Rencontre": "C R O F - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 14 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": ""
+                }
+            ]
+        },
+        {
+            "num": 17,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "C R B D - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "ven 01 avr",
+                    "Horaire": "14:00",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "32"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "E S O F - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "ven 01 avr",
+                    "Horaire": "14:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUKHEDDOUNI Nacer Eddine",
+                            "minute": "29"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "IKHLEF Fares Mourad",
+                            "minute": "31"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "CHOUARHI Samy",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "0 : 3"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "N R Z - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 01 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAGHROUCHE Seifeddine (P)",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ZAIDI Mohamed Islam",
+                            "minute": "26"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "HANOU Abdelhakim Samir (P)",
+                            "minute": "53"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ZAIDI Mohamed Islam",
+                            "minute": "59"
+                        }
+                    ],
+                    "score": "1 : 3"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "R C H - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "ven 01 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim (P)",
+                            "minute": "73"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "KHATAB Abdelkacem Ayoub",
+                            "minute": "30"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "BOUKARI Idir Fakher Eddine",
+                            "minute": "80"
+                        }
+                    ],
+                    "score": "1 : 2"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "O M S E - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "ven 01 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane",
+                            "minute": "28"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane",
+                            "minute": "72"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "BOUARGOUB Imed",
+                            "minute": "17"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "24"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "GHERBI Ramzi",
+                            "minute": "31"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SAHRAOUI Abdellah",
+                            "minute": "86"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "BOUARGOUB Imed (P)",
+                            "minute": "87"
+                        }
+                    ],
+                    "score": "2 : 5"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "J S D - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 02 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "C R O F - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "sam 02 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel",
+                            "minute": "10"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "DJEMIL Bilal (P)",
+                            "minute": "84"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "IBRIHEN Bachir",
+                            "minute": "48"
+                        }
+                    ],
+                    "score": "2 : 1"
+                }
+            ]
+        },
+        {
+            "num": 18,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O D M - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 07 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "IDREG Ahmed",
+                            "minute": "18"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "IDREG Ahmed",
+                            "minute": "70"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "IDREG Ahmed",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BOUDERBALA Abdelaziz",
+                            "minute": "42"
+                        }
+                    ],
+                    "score": "3 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "J S B A B - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 07 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "F C B - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "sam 09 avr",
+                    "Horaire": "12:30",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "I R B E A - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "sam 09 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "SIOUANE Khaled",
+                            "minute": "24"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "LALOUI Ahmed (P)",
+                            "minute": "28"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "LALOUI Ahmed",
+                            "minute": "58"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "89"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "GHARBI Sabri",
+                            "minute": "36"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "GHARBI Sabri",
+                            "minute": "54"
+                        }
+                    ],
+                    "score": "4 : 2"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "F C E B - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "sam 09 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELOUFI Mohamed Reda (P)",
+                            "minute": "89"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "AMEZIANE Yanis",
+                            "minute": "85"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "N R Bri - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 09 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "E S F C - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 09 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "CHILALI Sid Ali",
+                            "minute": "54"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SALAOUI Sif Eddine",
+                            "minute": "88"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELFODIL Arezki",
+                            "minute": "84"
+                        }
+                    ],
+                    "score": "2 : 1"
+                }
+            ]
+        },
+        {
+            "num": 19,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "E S F C - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "ven 15 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "CHILALI Sid Ali",
+                            "minute": "22"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "DERAI Adem",
+                            "minute": "73"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "O M S E - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 16 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "37"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "LAFIFI Merouane",
+                            "minute": "44"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ADLI Oussama",
+                            "minute": "62"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "AIT KHEDDACHE Mohamed Oussama",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "E S O F - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "lun 18 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAHAR BELLAR Moussa (P)",
+                            "minute": "8"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "C R O F - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "mar 19 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel",
+                            "minute": "80"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "KHELLAF Mehdi",
+                            "minute": "45"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "R C H - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "mar 19 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "KATEB Sid Ali",
+                            "minute": "27"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim (P)",
+                            "minute": "60"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "TENNOUM Kamar Eddine",
+                            "minute": "77"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "48"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "60"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "SIOUANE Khaled",
+                            "minute": "69"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "GUEMACHE Souhib",
+                            "minute": "80"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUHA Aissa",
+                            "minute": "87"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUHA Aissa",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "3 : 8"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "N R Z - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "mar 19 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "FELLAH Mhamed",
+                            "minute": "22"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "C R B D - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "mar 19 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                }
+            ]
+        },
+        {
+            "num": 20,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O D M - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "ven 22 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "HAOUTAT Mehdi",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "CHIKHI Youcef Islam",
+                            "minute": "75"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "BOURDACHE Sofiane",
+                            "minute": "82"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAHAR BELLAR Moussa",
+                            "minute": "41"
+                        }
+                    ],
+                    "score": "3 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "J S D - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "ven 22 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S D",
+                            "joueur": "SAGHID Hakim (P)",
+                            "minute": "74"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "CHERMAT Mohamed Zakaria",
+                            "minute": "85"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAGHROUCHE Seifeddine",
+                            "minute": "37"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "GHARBI Sabri",
+                            "minute": "50"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "F C E B - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 23 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "HANOU Abdelhakim Samir",
+                            "minute": "5"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "ANBA Aymen",
+                            "minute": "16"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "30"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FISSAH Fayçal",
+                            "minute": "75"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "79"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "1 : 5"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "J S B A B - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "sam 23 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "BESSA Ayoub",
+                            "minute": "60"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "F C B - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 23 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "LADDI Kheireddine",
+                            "minute": "3"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel (P)",
+                            "minute": "66"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "N R Bri - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "sam 23 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "I R B E A - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "sam 23 avr",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "15"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "27"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "3"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "6"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "LALOUI Ahmed",
+                            "minute": "70"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "TIKOUK Mohamed Chafik",
+                            "minute": "78"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUHA Aissa",
+                            "minute": "82"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUHA Aissa",
+                            "minute": "89"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BEKHEIRA Mohamed",
+                            "minute": "51"
+                        }
+                    ],
+                    "score": "8 : 1"
+                }
+            ]
+        },
+        {
+            "num": 21,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O M S E - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "mer 27 avr",
+                    "Horaire": "13:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AMRAR Khaled",
+                            "minute": "22"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "AREZKI Ridha",
+                            "minute": "11"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali (P)",
+                            "minute": "35"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali",
+                            "minute": "58"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali",
+                            "minute": "72"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "GOUSMI Hichem",
+                            "minute": "82"
+                        }
+                    ],
+                    "score": "1 : 6"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "N R Bri - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "mer 27 avr",
+                    "Horaire": "15:00",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SENOUCI Mohamed Abderezak",
+                            "minute": "60"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SENOUCI Mohamed Abderezak",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "N R Z - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "mer 27 avr",
+                    "Horaire": "16:00",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "FEKIRINI Mohamed Nazim",
+                            "minute": "77"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "C R B D - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "mer 27 avr",
+                    "Horaire": "16:00",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FISSAH Fayçal",
+                            "minute": "64"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "CHABOUNI Samir (P)",
+                            "minute": "81"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "SIOUANE Khaled",
+                            "minute": "10"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "OUAREM Nadjem Eddine (P)",
+                            "minute": "70"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "3 : 3"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "R C H - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 30 avr",
+                    "Horaire": "16:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "2"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "RABIA Riad",
+                            "minute": "61"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "73"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "79"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "KATEB Sid Ali (P)",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "SAGHID Hakim (P)",
+                            "minute": "9"
+                        }
+                    ],
+                    "score": "5 : 1"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "C R O F - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 30 avr",
+                    "Horaire": "16:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "E S F C - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 30 avr",
+                    "Horaire": "16:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "CHILALI Sid Ali",
+                            "minute": "53"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "DERAI Adem",
+                            "minute": "87"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "KERFA Said",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "3 : 0"
+                }
+            ]
+        },
+        {
+            "num": 22,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "F C B - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "ven 06 mai",
+                    "Horaire": "15:30",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "LABIOD Oussama",
+                            "minute": "54"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "SENOUCI Mohamed Abderezak (P)",
+                            "minute": "45"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "F C E B - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "ven 06 mai",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ADLI Oussama",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "CHILALI Sid Ali",
+                            "minute": "12"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "J S D - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "ven 06 mai",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BEKHEIRA Mohamed",
+                            "minute": "67"
+                        }
+                    ],
+                    "score": "0 : 1"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "E S O F - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "ven 06 mai",
+                    "Horaire": "15:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "BELOUZ Omar",
+                            "minute": "22"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "GHEZALI Amer",
+                            "minute": "61"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAIB Ahmed",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "5"
+                        }
+                    ],
+                    "score": "3 : 1"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "I R B E A - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 07 mai",
+                    "Horaire": "15:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "OUAREM Nadjem Eddine",
+                            "minute": "80"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel",
+                            "minute": "50"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "J S B A B - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 07 mai",
+                    "Horaire": "15:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "32"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "66"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FISSAH Fayçal",
+                            "minute": "84"
+                        }
+                    ],
+                    "score": "0 : 3"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "O D M - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "sam 07 mai",
+                    "Horaire": "15:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "LARBAOUI Ayoub",
+                            "minute": "63"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "TALAMALI Mohamed Oussama",
+                            "minute": "7"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "ZAOUI Adel",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "HAMMOU Mohamed",
+                            "minute": "85"
+                        }
+                    ],
+                    "score": "2 : 2"
+                }
+            ]
+        },
+        {
+            "num": 23,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "R C H - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "ven 13 mai",
+                    "Horaire": "15:00",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "KACHOU Mohamed",
+                            "minute": "14"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "RABIA Riad",
+                            "minute": "17"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "OUERDENE Mohamed Baderddine",
+                            "minute": "5"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "KHIDER Abderraouf",
+                            "minute": "57"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "N R Bri - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 14 mai",
+                    "Horaire": "16:00",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "GHERBI Ramzi (P)",
+                            "minute": "14"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "GHERBI Ramzi",
+                            "minute": "8"
+                        },
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "DRIF Hicham",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "HANOU Abdelhakim Samir",
+                            "minute": "68"
+                        }
+                    ],
+                    "score": "3 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "E S F C - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "sam 14 mai",
+                    "Horaire": "16:00",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "CHILALI Sid Ali",
+                            "minute": "35"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "OUAREM Nadjem Eddine",
+                            "minute": "72"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "SIOUANE Khaled",
+                            "minute": "8"
+                        }
+                    ],
+                    "score": "1 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "C R O F - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "sam 14 mai",
+                    "Horaire": "16:00",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel (P)",
+                            "minute": "73"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "DERRADJI Zakaria",
+                            "minute": "88"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali",
+                            "minute": "36"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "TAKLI Ali (P)",
+                            "minute": "44"
+                        },
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "AROUS Djillali (P)",
+                            "minute": "88"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "C R B D - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "sam 14 mai",
+                    "Horaire": "16:00",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "20"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "32"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "58"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "GOURAIA Walid",
+                            "minute": "76"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "78"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "8"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "DEBBAH Abdelkadir",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "SAGHID Hakim",
+                            "minute": "86"
+                        }
+                    ],
+                    "score": "6 : 2"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "O M S E - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 14 mai",
+                    "Horaire": "16:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "ROUABAH Ayemen",
+                            "minute": "45"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "TAIB Ahmed",
+                            "minute": "24"
+                        }
+                    ],
+                    "score": "1 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "F C B - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "sam 14 mai",
+                    "Horaire": "16:00",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "LABIOD Oussama",
+                            "minute": "45"
+                        }
+                    ],
+                    "score": "1 : 0"
+                }
+            ]
+        },
+        {
+            "num": 24,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "N R Z - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 19 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "GHARBI Sabri",
+                            "minute": "15"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOUSLAMA Mohamed",
+                            "minute": "11"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "CHIHEB Madjid",
+                            "minute": "29"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOUABIBSA Seif Eddine (CSC)",
+                            "minute": "56"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AMRAR Khaled",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "E S O F - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 19 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "LAZAREF Cherif",
+                            "minute": "34"
+                        }
+                    ],
+                    "score": "0 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "J S B A B - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 19 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S B A B",
+                            "joueur": "AROUS Djillali",
+                            "minute": "14"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SALAOUI Sif Eddine",
+                            "minute": "10"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SEFTA Mohamed",
+                            "minute": "67"
+                        }
+                    ],
+                    "score": "1 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "I R B E A - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 19 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "TIKOUK Mohamed Chafik (P)",
+                            "minute": "89"
+                        }
+                    ],
+                    "score": "1 : 0"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "F C E B - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "jeu 19 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "HANOU Abdelhakim Samir",
+                            "minute": "13"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "KHELOUFI Mohamed Reda",
+                            "minute": "72"
+                        }
+                    ],
+                    "score": "2 : 0"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "J S D - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "sam 21 mai",
+                    "Horaire": "15:00",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BENTURQUI Sabri-Hocine",
+                            "minute": "63"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BENTURQUI Sabri-Hocine",
+                            "minute": "70"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BENTURQUI Sabri-Hocine",
+                            "minute": "8"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BELGUEZZANE Walid",
+                            "minute": "90"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELFODIL Arezki",
+                            "minute": "29"
+                        }
+                    ],
+                    "score": "4 : 1"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "O D M - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "sam 21 mai",
+                    "Horaire": "15:00",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "25"
+                        }
+                    ],
+                    "score": "0 : 1"
+                }
+            ]
+        },
+        {
+            "num": 25,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "O M S E - R C H",
+                    "Catégorie": "Senior",
+                    "Date": "mer 25 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "2"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AKAK Moncif Haithem",
+                            "minute": "41"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AMRAR Khaled",
+                            "minute": "68"
+                        },
+                        {
+                            "equipe": "R C H",
+                            "joueur": "BOUKEZOULA Ibrahim",
+                            "minute": "35"
+                        }
+                    ],
+                    "score": "3 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "C R B D - N R Z",
+                    "Catégorie": "Senior",
+                    "Date": "mer 25 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "BENTALHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "13"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "29"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "30"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAALEM SALAH Abdelouaheb (P)",
+                            "minute": "81"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "HORRI Faycal",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "4 : 1"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "C R O F - E S O F",
+                    "Catégorie": "Senior",
+                    "Date": "mer 25 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "TALHI Abdelouakil",
+                            "minute": "38"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELFODIL Arezki",
+                            "minute": "53"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "ADILA Abdelkader",
+                            "minute": "35"
+                        },
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "GHEZALI Amer",
+                            "minute": "78"
+                        }
+                    ],
+                    "score": "2 : 2"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "E S F C - J S D",
+                    "Catégorie": "Senior",
+                    "Date": "mer 25 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "DELY BRAHIM",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SALAOUI Sif Eddine",
+                            "minute": "11"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SALAOUI Sif Eddine",
+                            "minute": "16"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "CHERMAT Mohamed Zakaria",
+                            "minute": "40"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "HAMANI Lyes (P)",
+                            "minute": "74"
+                        },
+                        {
+                            "equipe": "J S D",
+                            "joueur": "BEDRI Haytem",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "N R Bri - J S B A B",
+                    "Catégorie": "Senior",
+                    "Date": "mer 25 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "STAOUELI",
+                    "Observation": "",
+                    "buts": [],
+                    "score": "0 : 0"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "F C B - I R B E A",
+                    "Catégorie": "Senior",
+                    "Date": "mer 25 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "BIRTOUTA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "OUAREM Nadjem Eddine",
+                            "minute": "37"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "GUEMACHE Souhib",
+                            "minute": "44"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "47"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "80"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "BOUALI Wassim",
+                            "minute": "82"
+                        }
+                    ],
+                    "score": "0 : 6"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "F C E B - O D M",
+                    "Catégorie": "Senior",
+                    "Date": "mer 25 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "EL-BIAR - IBRIR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "HANOU Abdelhakim Samir",
+                            "minute": "44"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ZAIDI Mohamed Islam (P)",
+                            "minute": "89"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "YAHIA Nabil",
+                            "minute": "62"
+                        }
+                    ],
+                    "score": "2 : 1"
+                }
+            ]
+        },
+        {
+            "num": 26,
+            "rencontres": [
+                {
+                    "N°": "1",
+                    "Rencontre": "J S D - N R Bri",
+                    "Catégorie": "Senior",
+                    "Date": "sam 28 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Bri",
+                            "joueur": "GACI Samy",
+                            "minute": "85"
+                        }
+                    ],
+                    "score": "0 : 1"
+                },
+                {
+                    "N°": "2",
+                    "Rencontre": "O D M - O M S E",
+                    "Catégorie": "Senior",
+                    "Date": "mar 31 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "BOLOGHINE",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "O D M",
+                            "joueur": "CHEBILA Ahmed",
+                            "minute": "32"
+                        },
+                        {
+                            "equipe": "O D M",
+                            "joueur": "TALAMALI Mohamed Oussama",
+                            "minute": "47"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "AOUADJ Zoubir Lyes (P)",
+                            "minute": "47"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BEKHEIRA Mohamed",
+                            "minute": "55"
+                        },
+                        {
+                            "equipe": "O M S E",
+                            "joueur": "BOURALA Abderrahmane (P)",
+                            "minute": "74"
+                        }
+                    ],
+                    "score": "2 : 3"
+                },
+                {
+                    "N°": "3",
+                    "Rencontre": "I R B E A - F C E B",
+                    "Catégorie": "Senior",
+                    "Date": "mar 31 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "EL-ACHOUR",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "TIKOUK Mohamed Chafik",
+                            "minute": "40"
+                        },
+                        {
+                            "equipe": "I R B E A",
+                            "joueur": "KHECHA Ammar",
+                            "minute": "46"
+                        },
+                        {
+                            "equipe": "F C E B",
+                            "joueur": "ATTAL Sofiane (P)",
+                            "minute": "75"
+                        }
+                    ],
+                    "score": "2 : 1"
+                },
+                {
+                    "N°": "4",
+                    "Rencontre": "J S B A B - F C B",
+                    "Catégorie": "Senior",
+                    "Date": "mar 31 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "AIN BENIAN",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "F C B",
+                            "joueur": "KHATAB Abdelkacem Ayoub",
+                            "minute": "65"
+                        },
+                        {
+                            "equipe": "F C B",
+                            "joueur": "SOUAT Ayoub",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "0 : 2"
+                },
+                {
+                    "N°": "5",
+                    "Rencontre": "E S O F - E S F C",
+                    "Catégorie": "Senior",
+                    "Date": "mar 31 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "OULED FAYET",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "E S O F",
+                            "joueur": "SID Chakib",
+                            "minute": "72"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "HAMEL Ahmed Eloualid",
+                            "minute": "39"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "KHELIFI Aimen Abdelouakil",
+                            "minute": "50"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "KHELIFI Aimen Abdelouakil",
+                            "minute": "52"
+                        },
+                        {
+                            "equipe": "E S F C",
+                            "joueur": "SALAOUI Sif Eddine",
+                            "minute": "68"
+                        }
+                    ],
+                    "score": "1 : 4"
+                },
+                {
+                    "N°": "6",
+                    "Rencontre": "N R Z - C R O F",
+                    "Catégorie": "Senior",
+                    "Date": "mar 31 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "ZERALDA - ALI BENFADHA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "ZAOUI Adel",
+                            "minute": "15"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "ZAOUI Adel",
+                            "minute": "37"
+                        },
+                        {
+                            "equipe": "N R Z",
+                            "joueur": "LAGHROUCHE Seifeddine",
+                            "minute": "88"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel",
+                            "minute": "42"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "BELKACEMI Hamza",
+                            "minute": "53"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel",
+                            "minute": "68"
+                        },
+                        {
+                            "equipe": "C R O F",
+                            "joueur": "CHELLALI Djamel",
+                            "minute": "90"
+                        }
+                    ],
+                    "score": "3 : 4"
+                },
+                {
+                    "N°": "7",
+                    "Rencontre": "R C H - C R B D",
+                    "Catégorie": "Senior",
+                    "Date": "mar 31 mai",
+                    "Horaire": "16:30",
+                    "Lieu": "HYDRA",
+                    "Observation": "",
+                    "buts": [
+                        {
+                            "equipe": "R C H",
+                            "joueur": "SOUAG Abdellah (P)",
+                            "minute": "59"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HAMMADI Abdelhak",
+                            "minute": "20"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "DJOUAH Youcef",
+                            "minute": "35"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "HADJ SADOK Amine",
+                            "minute": "39"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MERZOUGUI Esseddik",
+                            "minute": "49"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "57"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "MAKKAR Mohamed",
+                            "minute": "75"
+                        },
+                        {
+                            "equipe": "C R B D",
+                            "joueur": "FADEL Hamza",
+                            "minute": "80"
+                        }
+                    ],
+                    "score": "1 : 7"
+                }
+            ]
+        }
+    ]
+}

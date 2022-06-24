@@ -1,0 +1,1538 @@
+[
+    {
+        "equipe": "E S O F",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "2011",
+        "Téléphone": "023280567",
+        "Mobile": "0540020703",
+        "Fax": "023280567",
+        "Président": "Toufik AISS AOUI",
+        "P. de section": "",
+        "Total joueurs": "102",
+        "Location": "Scouts Musulmans-Rue BOUDERBALA Hamidat -Ouled Fayet",
+        "Stade": "OULED FAYET",
+        "joueurs": [
+            {
+                "nom": "BENMEZOUGHI Ibrahim El Khalil",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "LAIFAOUI Ahmed",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "SOTA Sid Ali",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "ADILA Abdelkader",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "AISSAOUI Mohamed Reda",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUHIL Abdenour",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "CHEURFA Jiba",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "OUAIL Zakaria",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "TAHAR BELLAR Moussa",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BELABED Dahou",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "DJEBBARI Djellali",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HADJRI Chahine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KERMANI Mouiz",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MOKADDEM Billel",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "GHEZALI Amer",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KRIBECHE Houssam",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "SID Chakib",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "FELLAH Ibrahim",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ZOUBIRI Nacer-Eddine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ZENAD Djamel",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BELOUZ Omar",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BEN SACI Sif Eddine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "ALLAM Said Abderrahmane",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "TAIB Ahmed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SEGAI Med Amine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "ZIANI Borhaneddine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUDIAF Abdelkader",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SELMAOUI Mohamed Chafik",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "DEGUI Lotfi",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "N R Bri",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "2008",
+        "Téléphone": "021395320",
+        "Mobile": "0561854355",
+        "Fax": "021395320",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "104",
+        "Location": "Cité abatoir ex ecotras Staoueli -Alger",
+        "Stade": "STAOUELI",
+        "joueurs": [
+            {
+                "nom": "DJELLAL Zouhir",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "SOUFTA Ismail",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BOURAHLI Youcef",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "ACHAIBOU Said",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUZID Mohamed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "RAHIL Mohamed Lamine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HADJADJ Sofiane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "OUMELLAL Sofiane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BENSTITI Mohamed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "GHARBI Mohamed Amine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUREZAK Nabil",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "IDJA Menad",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "REKAIK Ahmed",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "SAHRAOUI Abdellah",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUMADJENE Abdelmalek",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "GHERBI Ramzi",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "MEROUANI Ishak",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "HAMMADI Mouad",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "SENOUCI Mohamed Abderezak",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BENACHOUR Hachemi",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BENSMAYA Abderahmane",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "GACI Samy",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BELKACEM Mohamed Mensour",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "KHELLAF Mehdi",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BENTAHAR Wassim",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SAYAH Mohamed Chafik",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUARGOUB Imed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "DRIF Hicham",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LACHOUAK Abdelkader",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOURAHLA Mohamed",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "R C H",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1997",
+        "Téléphone": "021694268",
+        "Mobile": "0559262649",
+        "Fax": "021694268",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "106",
+        "Location": "stade ahmed falek Hydra",
+        "Stade": "HYDRA",
+        "joueurs": [
+            {
+                "nom": "KHATTEB Youcef",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "FARAH Amir",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "AMGHOUZI Younes",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ABED Abdelouahab",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SOUAG Abdellah",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BERKANE Ahmed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KINNOU Adem",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOURSAS Oussama",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "RABIA Riad",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MEFTOUH Slimane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "AMARIC Tarek",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SIOUANE Ramzi",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BENFATNA Aymen",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MEGNOUCHE Fateh",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HALLOUZ Ahmed Abderrahmane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KATEB Sid Ali",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KERAZ Salah Eddne",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "DJENDEL Mohamed Reda",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "GHERZI Abderraouf",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUSSADIA Younes",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUTELDJA Mohamed",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BENCHAA Abou-Bakr",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "TOUBAL Mhamed",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "KACHOU Mohamed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "MOKRANI Mehdi",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "DAAS Farid",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "AMEZIANE Yanis",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUKEZOULA Ibrahim",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "O M S E",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1944",
+        "Téléphone": "",
+        "Mobile": "0542551494",
+        "Fax": "021964272",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "88",
+        "Location": "01 BOULEVARD   EMIR KHALED",
+        "Stade": "BOLOGHINE",
+        "joueurs": [
+            {
+                "nom": "SAHEL Zaki",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "OUNIS Ryadh",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "DRIADI Abderrahim Hakim",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "TOUDERT Zine Eddine Ryadh",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ATBI Islam",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SMAILI Abdellah",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHELIFA MAHDJOUBI Khaled",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MOUNIB Youcef",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOURALA Abderrahmane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MAHIEDDINE Rabah - Chakib",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "TIDDA Mohamed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "AMRAR Khaled",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "EL KOLLI Ibrahim",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HOUANTI Amine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "AZIBI Yanis",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHIHEB Madjid",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUABIBSA Seif Eddine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "DALI Fethi",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ROUABAH Ayemen",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ABAOUB Mohamed Amine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ARKOUB Abdou",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "HAMMOUCHE Yacine Ahmed Rayan",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUCHAKOUR Mohamed Reda",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "AKAK Moncif Haithem",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BEKHEIRA Mohamed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUSLAMA Mohamed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LAOUADI Said",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "AOUADJ Zoubir Lyes",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "N R Z",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1925",
+        "Téléphone": "0779221768",
+        "Mobile": "0779221768",
+        "Fax": "",
+        "Président": "",
+        "P. de section": "Omar BOUZIDI",
+        "Total joueurs": "117",
+        "Location": "rue 1er novembre",
+        "Stade": "ZERALDA - ALI BENFADHA",
+        "joueurs": [
+            {
+                "nom": "BETTIKA Anis Zerrouk",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BOUGASMI Islam",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "ALLOU Abderrezak",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "CHEHRI Abdelmalek Amine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "DJEZAR Nabil",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MATMAR Islam",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "TALAKALA Rouayane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MATEM Samir",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHIDER Abderraouf",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUALI Razik",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUZIDI Abderrahmane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "AHMED HAMADA Amine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ZAOUI Adel",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "KISSOUM Ahmed",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "KHOUKHI Abdelhakim",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUZIDI Ossama",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "FEKIRINI Mohamed Nazim",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ZAOUI Ishak",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "GHARBI Sabri",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHERIET Mounib Djazil",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LAGHROUCHE Seifeddine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "DRAOUZIA Abdelkader",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "HORRI Faycal",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "FELLAH M'hamed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "AIT MOHAMED AMER Abderraouf",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "GUIRI Abd El Illah",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LAISSAOUI Mounir",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "OUERDENE Mohamed Baderddine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "RAMI Saad",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "TAZGAIT Abdelghani",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "E S F C",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1963",
+        "Téléphone": "021 93 69 87",
+        "Mobile": "0560160650",
+        "Fax": "",
+        "Président": "Mehdi LERARI",
+        "P. de section": "",
+        "Total joueurs": "108",
+        "Location": "02 RUE  FOUZIA MOUILAH   ROSTOMIA CLAIRVAL",
+        "Stade": "OULED FAYET",
+        "joueurs": [
+            {
+                "nom": "LEKBIR Cherif",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "MECHKAL Aziouz",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "HAMMI Mohamed Laid",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BENAMER Khiereddine Mouhise",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "GOTNI Mohamed Elamine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HAMOUCHI Mohamed Lamine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SEFTA Mohamed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MEGNOUCHE Mahmoud",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "RAMI Mounir Ramzi",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HAMEL Ahmed Eloualid",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHELIFI Aimen Abdelouakil",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "EL MAOUHAB Rabah",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHERFOUCHE Nacer Eddine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "OUAICHOUCHE Louanes",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "RABAHI Mohamed",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "DAHIM Mohamed Nacer",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "KASSEL Younes",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "SOUISSI Oussama",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHILALI Sid Ali",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "AISSAOUI Mahrez",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "AIT ABDALLAH Mohamed Mehdi",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SADOUN Mohamed Athmane",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "MESSAOUDI Fouzi",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SAIDANI Abdel Hadi",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "ZERBOUT Jugurta",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SALAOUI Sif Eddine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "TARBOUK Mohamed  Amine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LARROUM Abdallah Elmehdi",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SAHLI Ismail Oussama",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "KERFA Said",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "J S B A B",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1997",
+        "Téléphone": "0",
+        "Mobile": "0549008563",
+        "Fax": "023103291",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "92",
+        "Location": "Cité 11 Décembre 1960",
+        "Stade": "AIN BENIAN",
+        "joueurs": [
+            {
+                "nom": "HAOUCHINE Yanis",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "SALHI Merouane",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "SAHRAOUI Ahmed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUZIDI Mohamed Amine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HADJ ABDELHAFID Mohamed Chakib",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BEN AMAR Sofiane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SENAGRIA Maamar",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHEMISSA Mohamed Sami",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SEBTI Amine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "AHMED AISSA Billel",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHACAL Lahoussine Anis",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BESSA Ayoub",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "TERKMANI Abderrahmane",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "AREZKI Ridha",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "RAHAL Ahmed Abderraouf",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "MOKDADI Mounir",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "KALOUN Abdelatif",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "AROUS Djillali",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "GUELLIL Aymen Djalil",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LAFANE Abdelkader Amine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "HAMMACHE Adel",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUDJADJA Abderrahim",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "DRIZI Mohamed Imad Eddin",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "GOUSMI Hichem",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "HIRECHE Abdelmadjid",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "TAKLI Ali",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUKROUNE Riyadh",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "F C E B",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1974",
+        "Téléphone": "/",
+        "Mobile": "0778132657",
+        "Fax": "/",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "112",
+        "Location": "06 Rue du 11 décembre  1960 - Stade el biar Alger",
+        "Stade": "EL-BIAR - IBRIR",
+        "joueurs": [
+            {
+                "nom": "MEHENNAOUI Abdelkader",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BENCHERGUI Abdenour",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "AIT KHEDDACHE Mohamed Oussama",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MOUZAOUI Samy",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUBEKEUR Yasser",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "NEZAFENE Ameur",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MERAH Abdelhak",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHELIFA Rabia Chaouki",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ZAIDI Mohamed Islam",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "OUBAZIZ Ramzi",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "LAFIFI Merouane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BLAL Ibrahim",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHELOUFI Mohamed Reda",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SALMI Aimene",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BENBELGACEM Tarek Seieddine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HADID Youcef",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "LACHI Aghiles",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ADLI Oussama",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "OUGENOUN Islam",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHERAT Abderrahmane",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "HATEM Anis",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BELKAIDI Aimen",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "HANOU Abdelhakim Samir",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "ATTAL Sofiane",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "ASSIRI Oussama Yasser",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SEDDIKI Abderrahim Akram",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "OULD MOHAMED Abdelaziz",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BEZZA Yazid",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "I R B E A",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1985",
+        "Téléphone": "",
+        "Mobile": "0561011002",
+        "Fax": "",
+        "Président": "",
+        "P. de section": "Abdelkader BENOMAR",
+        "Total joueurs": "111",
+        "Location": "satde communale ouederouman el achour",
+        "Stade": "EL-ACHOUR",
+        "joueurs": [
+            {
+                "nom": "HADIDI Abdelhadi",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BRAHIMI Fethi",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BOUKEMOUNE Khaled",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "KAMECHE Faycale",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SEBBACHE Tarek",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ABI Okba",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUKHEDDOUNI Nacer Eddine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MEKRAZI Abdelaziz",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HADDAD Abdelkhalek",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ZELFA Chakib Rabah",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "IKHLEF Fares Mourad",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "GHARBI Ayoub",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BENALLEL Aboubaker",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "EL-FODIL Mahdi-Ilyes",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUHA Aissa",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHABANI Oussama Hichem",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "TIKOUK Mohamed Chafik",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "LAOUAS Abdellah",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "GUEMACHE Souhib",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "OUAREM Nadjem Eddine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "DENDANE Bilel",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUALI Wassim",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "HAMOUDI Merouane",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "HAMROUNI Lamine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHOUARHI Samy",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "KHECHA Ammar",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LALOUI Ahmed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "SIOUANE Khaled",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "O D M",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "1993",
+        "Téléphone": "",
+        "Mobile": "",
+        "Fax": "021.95.08.49",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "104",
+        "Location": "07 Boulevard Said Touafdit Bologhine",
+        "Stade": "BOLOGHINE",
+        "joueurs": [
+            {
+                "nom": "ABDOU Mohamed",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "HAMEL Bachir",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BEHLAL Walid",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "OLDACHE Mohamed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BELKHIR Mehdi",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "YAHIA Nabil",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "DJENADI Toufik",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOURDACHE Sofiane",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HAMI Walid",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "CHACHOUA Mohamed Hichem",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "IBRIHEN Bachir",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHIKHI Youcef Islam",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHEBILA Ahmed",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "LARBAOUI Ayoub",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "KHARCHI BENANI Amir",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUKHEMKHEM Lokmane",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "SADOUN Okba",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "IDREG Ahmed",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUNAAS Islam",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "HAOUTAT Mehdi",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUZENOUNE Adlane",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUDJANA Ouahid",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUROUBI Abdelkader",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "TALAMALI Mohamed Oussama",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BELLAL Samir",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "J S D",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "2001",
+        "Téléphone": "0551618951",
+        "Mobile": "551486809",
+        "Fax": "",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "105",
+        "Location": "44 lot oued tarfa draria",
+        "Stade": "DRARIA",
+        "joueurs": [
+            {
+                "nom": "HANDOU Abderrahmane",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "TAYEBI Ayoub",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "CHAIRI Youcef",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "REZKA Mohammed Roudyn",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BAKIR Bilell",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SLAIM Ouassim",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SAIBI Soheyb",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "DEBBAH Abdelkadir",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUDERBALA Abdelaziz",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "GADI Ziad",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "TEMAGOULT Abdelaziz",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BELKAID Rabah Saad",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "DAIKHA Abdennour",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "LAGHA Ramzi",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUKERRA Abdesssalam",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "HAMANI Lyes",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "MOULAY Walid Ouissem",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ABDELGHANI Mohamed",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "OUAGAR Abderaouf",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHELIGHOUM Zoheir",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "KESSOUM Abdelkrim",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BEDRI Haytem",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "DJAMAI Boualem",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOULABAS Youcef",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "SAGHID Hakim",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "CHERMAT Mohamed Zakaria",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "AGOUNE Khaled",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BELBAALI Hicham",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BELGUEZZANE Walid",
+                "poste": "Attaquant"
+            }
+        ]
+    },
+    {
+        "equipe": "F C B",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "",
+        "Téléphone": "",
+        "Mobile": "",
+        "Fax": "",
+        "Président": "",
+        "P. de section": "Boualem BENSEGHIER",
+        "Total joueurs": "94",
+        "Location": "Stade Mohamed Iguer",
+        "Stade": "BIRMANDREIS",
+        "joueurs": [
+            {
+                "nom": "HIDA Achraf",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "MEDJAHED Abderrahmane",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "MENDAS Nadjib",
+                "poste": "Gardien de but"
+            },
+            {
+                "nom": "BEGDOUCHE Seghir Houdaifa",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "LABADI Chems Eddine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SAIDI Nacim",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "TAOUCH Azeddine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "TOUATI Islam",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "BOUTOUILI Mohamed Amine",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "SMAIL Said Anis",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "ALLALI Abderraouf",
+                "poste": "Défenseur"
+            },
+            {
+                "nom": "KHATAB Abdelkacem Ayoub",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "TAIBI Khaled Mohamed Anis",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "MEDDAHI Yanni",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "NEDJADI Merzoug",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUKARI Idir Fakher Eddine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "CHAREF KHODJA Amine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "BOUDJEDOU Imad Eddine",
+                "poste": "Milieu de terrain"
+            },
+            {
+                "nom": "ZAROUR Ali",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LABIOD Oussama",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "MILI Anis",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "LADDI Kheireddine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "BOUDERBALA Mohamed Amine",
+                "poste": "Attaquant"
+            },
+            {
+                "nom": "ZERROUKI Rafik",
+                "poste": "Attaquant"
+            }
+        ]
+    }
+]
