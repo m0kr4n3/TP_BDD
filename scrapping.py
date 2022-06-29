@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json, re
 
 
-
 headers = {
     "Cookie": '_csrf=44271cf543b002d09d0c6e35cfeba868869c2ae10faf37ec24056af46edbfa64a:2:{i:0;s:5:"_csrf";i:1;s:32:"D9yU7midx51lHX2aaPjXBEHORCdzcmsm";}; _ga=GA1.2.239957291.1656075417; _gid=GA1.2.1470275687.1656075417; _gat=1',
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",
@@ -128,18 +127,26 @@ def get_club_info(link):
     club = {"equipe": soup.find("h1").text.split("(")[1].split(")")[0]}
     if club["equipe"] == "#8":
         return None
+    club["Nom_complet"] = (
+        soup.find("div", attrs={"class": "col-md-9"})
+        .find("h6")
+        .text.split(":")[1]
+        .strip()
+    )
     infos = soup.find("ul", attrs={"class": "general-info"}).findAll("li")
     for info in infos:
         info = info.text.split(":")
         club[info[0].strip()] = info[1].strip()
-    club["joueurs"]=[]
-    joueurs=[info.find('h4').text.strip() for info in soup.find('div',attrs={'id': "players"}).findAll('div',attrs={'class': "info-player"})]
+    club["joueurs"] = []
+    joueurs = [
+        info.find("h4").text.strip()
+        for info in soup.find("div", attrs={"id": "players"}).findAll(
+            "div", attrs={"class": "info-player"}
+        )
+    ]
     for j in joueurs:
-        j=j.split('   ')
-        joueur = {
-            "nom":j[0].strip(),
-            "poste": j[-1].strip()
-        }
+        j = j.split("   ")
+        joueur = {"nom": j[0].strip(), "poste": j[-1].strip()}
         club["joueurs"].append(joueur)
 
     # print(club)
@@ -153,9 +160,6 @@ if __name__ == "__main__":
 
     # with open('rencontres.json','w',encoding='utf8') as w:
     #     json.dump(group, w, indent=4,ensure_ascii=False)
-
-
-
 
     # Retrieving Buts
     clubs = get_clubs_infos(1)

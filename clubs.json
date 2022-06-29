@@ -1,6 +1,6 @@
-[
-    {
+[{
         "equipe": "E S O F",
+        "Nom_complet": "E S OULED FAYET",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "2011",
@@ -12,8 +12,7 @@
         "Total joueurs": "102",
         "Location": "Scouts Musulmans-Rue BOUDERBALA Hamidat -Ouled Fayet",
         "Stade": "OULED FAYET",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "BENMEZOUGHI Ibrahim El Khalil",
                 "poste": "Gardien de but"
             },
@@ -133,6 +132,7 @@
     },
     {
         "equipe": "N R Bri",
+        "Nom_complet": "Nedjm Riadi Bridja",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "2008",
@@ -144,8 +144,7 @@
         "Total joueurs": "104",
         "Location": "Cité abatoir ex ecotras Staoueli -Alger",
         "Stade": "STAOUELI",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "DJELLAL Zouhir",
                 "poste": "Gardien de but"
             },
@@ -269,6 +268,7 @@
     },
     {
         "equipe": "R C H",
+        "Nom_complet": "R C Hydra",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1997",
@@ -280,8 +280,7 @@
         "Total joueurs": "106",
         "Location": "stade ahmed falek Hydra",
         "Stade": "HYDRA",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "KHATTEB Youcef",
                 "poste": "Gardien de but"
             },
@@ -397,6 +396,7 @@
     },
     {
         "equipe": "O M S E",
+        "Nom_complet": "O M S E",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1944",
@@ -408,8 +408,7 @@
         "Total joueurs": "88",
         "Location": "01 BOULEVARD   EMIR KHALED",
         "Stade": "BOLOGHINE",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "SAHEL Zaki",
                 "poste": "Gardien de but"
             },
@@ -525,6 +524,7 @@
     },
     {
         "equipe": "N R Z",
+        "Nom_complet": "N R Zeralda",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1925",
@@ -536,8 +536,7 @@
         "Total joueurs": "117",
         "Location": "rue 1er novembre",
         "Stade": "ZERALDA - ALI BENFADHA",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "BETTIKA Anis Zerrouk",
                 "poste": "Gardien de but"
             },
@@ -661,6 +660,7 @@
     },
     {
         "equipe": "E S F C",
+        "Nom_complet": "E S FOUGEROUX  CLAIRVAL",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1963",
@@ -672,8 +672,7 @@
         "Total joueurs": "108",
         "Location": "02 RUE  FOUZIA MOUILAH   ROSTOMIA CLAIRVAL",
         "Stade": "OULED FAYET",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "LEKBIR Cherif",
                 "poste": "Gardien de but"
             },
@@ -797,6 +796,7 @@
     },
     {
         "equipe": "J S B A B",
+        "Nom_complet": "J S B AIN BENIAN",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1997",
@@ -808,8 +808,7 @@
         "Total joueurs": "92",
         "Location": "Cité 11 Décembre 1960",
         "Stade": "AIN BENIAN",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "HAOUCHINE Yanis",
                 "poste": "Gardien de but"
             },
@@ -921,6 +920,7 @@
     },
     {
         "equipe": "F C E B",
+        "Nom_complet": "FARIK CHABAB EL BIAR",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1974",
@@ -932,8 +932,7 @@
         "Total joueurs": "112",
         "Location": "06 Rue du 11 décembre  1960 - Stade el biar Alger",
         "Stade": "EL-BIAR - IBRIR",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "MEHENNAOUI Abdelkader",
                 "poste": "Gardien de but"
             },
@@ -1049,6 +1048,7 @@
     },
     {
         "equipe": "I R B E A",
+        "Nom_complet": "I R B El-Achour",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1985",
@@ -1060,8 +1060,7 @@
         "Total joueurs": "111",
         "Location": "satde communale ouederouman el achour",
         "Stade": "EL-ACHOUR",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "HADIDI Abdelhadi",
                 "poste": "Gardien de but"
             },
@@ -1177,6 +1176,7 @@
     },
     {
         "equipe": "O D M",
+        "Nom_complet": "OLYMPIC DEUX MOULINS",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "1993",
@@ -1188,8 +1188,7 @@
         "Total joueurs": "104",
         "Location": "07 Boulevard Said Touafdit Bologhine",
         "Stade": "BOLOGHINE",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "ABDOU Mohamed",
                 "poste": "Gardien de but"
             },
@@ -1293,6 +1292,7 @@
     },
     {
         "equipe": "J S D",
+        "Nom_complet": "JEUNESSE SPORTIVE DRARIA",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
         "Fondation": "2001",
@@ -1304,8 +1304,7 @@
         "Total joueurs": "105",
         "Location": "44 lot oued tarfa draria",
         "Stade": "DRARIA",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "HANDOU Abderrahmane",
                 "poste": "Gardien de but"
             },
@@ -1425,9 +1424,10 @@
     },
     {
         "equipe": "F C B",
+        "Nom_complet": "F C BIRMOURADRAIS",
         "Groupe": "Groupe 1",
         "Division": "Honneur",
-        "Fondation": "",
+        "Fondation": "2000",
         "Téléphone": "",
         "Mobile": "",
         "Fax": "",
@@ -1436,8 +1436,7 @@
         "Total joueurs": "94",
         "Location": "Stade Mohamed Iguer",
         "Stade": "BIRMANDREIS",
-        "joueurs": [
-            {
+        "joueurs": [{
                 "nom": "HIDA Achraf",
                 "poste": "Gardien de but"
             },
@@ -1534,5 +1533,37 @@
                 "poste": "Attaquant"
             }
         ]
+    },
+    {
+        "equipe": "C R B D",
+        "Nom_complet": "",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "2000",
+        "Téléphone": "",
+        "Mobile": "",
+        "Fax": "",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "94",
+        "Location": "",
+        "Stade": "Dergana",
+        "joueurs": []
+    },
+    {
+        "equipe": "C R O F",
+        "Nom_complet": "",
+        "Groupe": "Groupe 1",
+        "Division": "Honneur",
+        "Fondation": "2000",
+        "Téléphone": "",
+        "Mobile": "",
+        "Fax": "",
+        "Président": "",
+        "P. de section": "",
+        "Total joueurs": "94",
+        "Location": "",
+        "Stade": "Ouled Fayet",
+        "joueurs": []
     }
 ]
