@@ -155,7 +155,7 @@ def insert_rencontres_Joue_marquer():
                 f"'1'",
                 f'\'{journee["num"]}\''
             ]
-            vals = f'SELECT {", ".join([v for v in values])}, Case when exists(select * from Stade  where NomStade=\'{rencontre["Lieu"]}\') then IdStade else NULL end from Stade  limit 1'
+            vals = f'SELECT {", ".join([v for v in values])}, Case when exists(select * from Stade  where NomStade=\'{rencontre["Lieu"]}\') then (select IdStade from Stade where NomStade=\'{rencontre["Lieu"]}\' limit 1) else NULL end from Stade limit 1'
             q_rencontres = f"Insert into Rencontre {attrs} {vals};\n"
             w.write(q_rencontres)
 
